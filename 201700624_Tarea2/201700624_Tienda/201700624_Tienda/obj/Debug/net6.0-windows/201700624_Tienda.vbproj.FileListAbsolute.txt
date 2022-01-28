@@ -1,0 +1,17 @@
+D:\Users\USER\Desktop\PROYECTOS PROGRA 092\201700624_Tarea2\201700624_Tienda\201700624_Tienda\bin\Debug\net6.0-windows\201700624_Tienda.exe
+D:\Users\USER\Desktop\PROYECTOS PROGRA 092\201700624_Tarea2\201700624_Tienda\201700624_Tienda\bin\Debug\net6.0-windows\201700624_Tienda.deps.json
+D:\Users\USER\Desktop\PROYECTOS PROGRA 092\201700624_Tarea2\201700624_Tienda\201700624_Tienda\bin\Debug\net6.0-windows\201700624_Tienda.runtimeconfig.json
+D:\Users\USER\Desktop\PROYECTOS PROGRA 092\201700624_Tarea2\201700624_Tienda\201700624_Tienda\bin\Debug\net6.0-windows\201700624_Tienda.dll
+D:\Users\USER\Desktop\PROYECTOS PROGRA 092\201700624_Tarea2\201700624_Tienda\201700624_Tienda\bin\Debug\net6.0-windows\ref\201700624_Tienda.dll
+D:\Users\USER\Desktop\PROYECTOS PROGRA 092\201700624_Tarea2\201700624_Tienda\201700624_Tienda\bin\Debug\net6.0-windows\201700624_Tienda.pdb
+D:\Users\USER\Desktop\PROYECTOS PROGRA 092\201700624_Tarea2\201700624_Tienda\201700624_Tienda\obj\Debug\net6.0-windows\201700624_Tienda.vbproj.AssemblyReference.cache
+D:\Users\USER\Desktop\PROYECTOS PROGRA 092\201700624_Tarea2\201700624_Tienda\201700624_Tienda\obj\Debug\net6.0-windows\_201700624_Tienda.Form1.resources
+D:\Users\USER\Desktop\PROYECTOS PROGRA 092\201700624_Tarea2\201700624_Tienda\201700624_Tienda\obj\Debug\net6.0-windows\201700624_Tienda.vbproj.GenerateResource.cache
+D:\Users\USER\Desktop\PROYECTOS PROGRA 092\201700624_Tarea2\201700624_Tienda\201700624_Tienda\obj\Debug\net6.0-windows\201700624_Tienda.GeneratedMSBuildEditorConfig.editorconfig
+D:\Users\USER\Desktop\PROYECTOS PROGRA 092\201700624_Tarea2\201700624_Tienda\201700624_Tienda\obj\Debug\net6.0-windows\201700624_Tienda.AssemblyInfoInputs.cache
+D:\Users\USER\Desktop\PROYECTOS PROGRA 092\201700624_Tarea2\201700624_Tienda\201700624_Tienda\obj\Debug\net6.0-windows\201700624_Tienda.AssemblyInfo.vb
+D:\Users\USER\Desktop\PROYECTOS PROGRA 092\201700624_Tarea2\201700624_Tienda\201700624_Tienda\obj\Debug\net6.0-windows\201700624_Tienda.vbproj.CoreCompileInputs.cache
+D:\Users\USER\Desktop\PROYECTOS PROGRA 092\201700624_Tarea2\201700624_Tienda\201700624_Tienda\obj\Debug\net6.0-windows\201700624_Tienda.dll
+D:\Users\USER\Desktop\PROYECTOS PROGRA 092\201700624_Tarea2\201700624_Tienda\201700624_Tienda\obj\Debug\net6.0-windows\ref\201700624_Tienda.dll
+D:\Users\USER\Desktop\PROYECTOS PROGRA 092\201700624_Tarea2\201700624_Tienda\201700624_Tienda\obj\Debug\net6.0-windows\201700624_Tienda.pdb
+D:\Users\USER\Desktop\PROYECTOS PROGRA 092\201700624_Tarea2\201700624_Tienda\201700624_Tienda\obj\Debug\net6.0-windows\201700624_Tienda.genruntimeconfig.cache
