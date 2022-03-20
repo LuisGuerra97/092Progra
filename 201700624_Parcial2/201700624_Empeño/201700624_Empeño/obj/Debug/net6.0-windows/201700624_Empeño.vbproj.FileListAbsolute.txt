@@ -1,0 +1,17 @@
+D:\Users\USER\Desktop\201700624_Parcial2\201700624_Empeño\201700624_Empeño\bin\Debug\net6.0-windows\201700624_Empeño.exe
+D:\Users\USER\Desktop\201700624_Parcial2\201700624_Empeño\201700624_Empeño\bin\Debug\net6.0-windows\201700624_Empeño.deps.json
+D:\Users\USER\Desktop\201700624_Parcial2\201700624_Empeño\201700624_Empeño\bin\Debug\net6.0-windows\201700624_Empeño.runtimeconfig.json
+D:\Users\USER\Desktop\201700624_Parcial2\201700624_Empeño\201700624_Empeño\bin\Debug\net6.0-windows\201700624_Empeño.dll
+D:\Users\USER\Desktop\201700624_Parcial2\201700624_Empeño\201700624_Empeño\bin\Debug\net6.0-windows\ref\201700624_Empeño.dll
+D:\Users\USER\Desktop\201700624_Parcial2\201700624_Empeño\201700624_Empeño\bin\Debug\net6.0-windows\201700624_Empeño.pdb
+D:\Users\USER\Desktop\201700624_Parcial2\201700624_Empeño\201700624_Empeño\obj\Debug\net6.0-windows\201700624_Empeño.vbproj.AssemblyReference.cache
+D:\Users\USER\Desktop\201700624_Parcial2\201700624_Empeño\201700624_Empeño\obj\Debug\net6.0-windows\_201700624_Empeño.Form1.resources
+D:\Users\USER\Desktop\201700624_Parcial2\201700624_Empeño\201700624_Empeño\obj\Debug\net6.0-windows\201700624_Empeño.vbproj.GenerateResource.cache
+D:\Users\USER\Desktop\201700624_Parcial2\201700624_Empeño\201700624_Empeño\obj\Debug\net6.0-windows\201700624_Empeño.GeneratedMSBuildEditorConfig.editorconfig
+D:\Users\USER\Desktop\201700624_Parcial2\201700624_Empeño\201700624_Empeño\obj\Debug\net6.0-windows\201700624_Empeño.AssemblyInfoInputs.cache
+D:\Users\USER\Desktop\201700624_Parcial2\201700624_Empeño\201700624_Empeño\obj\Debug\net6.0-windows\201700624_Empeño.AssemblyInfo.vb
+D:\Users\USER\Desktop\201700624_Parcial2\201700624_Empeño\201700624_Empeño\obj\Debug\net6.0-windows\201700624_Empeño.vbproj.CoreCompileInputs.cache
+D:\Users\USER\Desktop\201700624_Parcial2\201700624_Empeño\201700624_Empeño\obj\Debug\net6.0-windows\201700624_Empeño.dll
+D:\Users\USER\Desktop\201700624_Parcial2\201700624_Empeño\201700624_Empeño\obj\Debug\net6.0-windows\ref\201700624_Empeño.dll
+D:\Users\USER\Desktop\201700624_Parcial2\201700624_Empeño\201700624_Empeño\obj\Debug\net6.0-windows\201700624_Empeño.pdb
+D:\Users\USER\Desktop\201700624_Parcial2\201700624_Empeño\201700624_Empeño\obj\Debug\net6.0-windows\201700624_Empeño.genruntimeconfig.cache
