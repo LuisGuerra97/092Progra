@@ -1,0 +1,17 @@
+D:\Users\USER\Desktop\PROYECTOS PROGRA 092\201700624_TareaP2\201700624_Sillones\201700624_Sillones\bin\Debug\net6.0-windows\201700624_Sillones.exe
+D:\Users\USER\Desktop\PROYECTOS PROGRA 092\201700624_TareaP2\201700624_Sillones\201700624_Sillones\bin\Debug\net6.0-windows\201700624_Sillones.deps.json
+D:\Users\USER\Desktop\PROYECTOS PROGRA 092\201700624_TareaP2\201700624_Sillones\201700624_Sillones\bin\Debug\net6.0-windows\201700624_Sillones.runtimeconfig.json
+D:\Users\USER\Desktop\PROYECTOS PROGRA 092\201700624_TareaP2\201700624_Sillones\201700624_Sillones\bin\Debug\net6.0-windows\201700624_Sillones.dll
+D:\Users\USER\Desktop\PROYECTOS PROGRA 092\201700624_TareaP2\201700624_Sillones\201700624_Sillones\bin\Debug\net6.0-windows\ref\201700624_Sillones.dll
+D:\Users\USER\Desktop\PROYECTOS PROGRA 092\201700624_TareaP2\201700624_Sillones\201700624_Sillones\bin\Debug\net6.0-windows\201700624_Sillones.pdb
+D:\Users\USER\Desktop\PROYECTOS PROGRA 092\201700624_TareaP2\201700624_Sillones\201700624_Sillones\obj\Debug\net6.0-windows\201700624_Sillones.vbproj.AssemblyReference.cache
+D:\Users\USER\Desktop\PROYECTOS PROGRA 092\201700624_TareaP2\201700624_Sillones\201700624_Sillones\obj\Debug\net6.0-windows\_201700624_Sillones.Form1.resources
+D:\Users\USER\Desktop\PROYECTOS PROGRA 092\201700624_TareaP2\201700624_Sillones\201700624_Sillones\obj\Debug\net6.0-windows\201700624_Sillones.vbproj.GenerateResource.cache
+D:\Users\USER\Desktop\PROYECTOS PROGRA 092\201700624_TareaP2\201700624_Sillones\201700624_Sillones\obj\Debug\net6.0-windows\201700624_Sillones.GeneratedMSBuildEditorConfig.editorconfig
+D:\Users\USER\Desktop\PROYECTOS PROGRA 092\201700624_TareaP2\201700624_Sillones\201700624_Sillones\obj\Debug\net6.0-windows\201700624_Sillones.AssemblyInfoInputs.cache
+D:\Users\USER\Desktop\PROYECTOS PROGRA 092\201700624_TareaP2\201700624_Sillones\201700624_Sillones\obj\Debug\net6.0-windows\201700624_Sillones.AssemblyInfo.vb
+D:\Users\USER\Desktop\PROYECTOS PROGRA 092\201700624_TareaP2\201700624_Sillones\201700624_Sillones\obj\Debug\net6.0-windows\201700624_Sillones.vbproj.CoreCompileInputs.cache
+D:\Users\USER\Desktop\PROYECTOS PROGRA 092\201700624_TareaP2\201700624_Sillones\201700624_Sillones\obj\Debug\net6.0-windows\201700624_Sillones.dll
+D:\Users\USER\Desktop\PROYECTOS PROGRA 092\201700624_TareaP2\201700624_Sillones\201700624_Sillones\obj\Debug\net6.0-windows\ref\201700624_Sillones.dll
+D:\Users\USER\Desktop\PROYECTOS PROGRA 092\201700624_TareaP2\201700624_Sillones\201700624_Sillones\obj\Debug\net6.0-windows\201700624_Sillones.pdb
+D:\Users\USER\Desktop\PROYECTOS PROGRA 092\201700624_TareaP2\201700624_Sillones\201700624_Sillones\obj\Debug\net6.0-windows\201700624_Sillones.genruntimeconfig.cache
