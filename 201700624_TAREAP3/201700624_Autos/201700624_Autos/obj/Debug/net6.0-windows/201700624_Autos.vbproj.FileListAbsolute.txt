@@ -1,0 +1,17 @@
+D:\Users\USER\Desktop\PROYECTOS PROGRA 092\201700624_TAREAP3\201700624_Autos\201700624_Autos\bin\Debug\net6.0-windows\201700624_Autos.exe
+D:\Users\USER\Desktop\PROYECTOS PROGRA 092\201700624_TAREAP3\201700624_Autos\201700624_Autos\bin\Debug\net6.0-windows\201700624_Autos.deps.json
+D:\Users\USER\Desktop\PROYECTOS PROGRA 092\201700624_TAREAP3\201700624_Autos\201700624_Autos\bin\Debug\net6.0-windows\201700624_Autos.runtimeconfig.json
+D:\Users\USER\Desktop\PROYECTOS PROGRA 092\201700624_TAREAP3\201700624_Autos\201700624_Autos\bin\Debug\net6.0-windows\201700624_Autos.dll
+D:\Users\USER\Desktop\PROYECTOS PROGRA 092\201700624_TAREAP3\201700624_Autos\201700624_Autos\bin\Debug\net6.0-windows\ref\201700624_Autos.dll
+D:\Users\USER\Desktop\PROYECTOS PROGRA 092\201700624_TAREAP3\201700624_Autos\201700624_Autos\bin\Debug\net6.0-windows\201700624_Autos.pdb
+D:\Users\USER\Desktop\PROYECTOS PROGRA 092\201700624_TAREAP3\201700624_Autos\201700624_Autos\obj\Debug\net6.0-windows\201700624_Autos.vbproj.AssemblyReference.cache
+D:\Users\USER\Desktop\PROYECTOS PROGRA 092\201700624_TAREAP3\201700624_Autos\201700624_Autos\obj\Debug\net6.0-windows\_201700624_Autos.Form1.resources
+D:\Users\USER\Desktop\PROYECTOS PROGRA 092\201700624_TAREAP3\201700624_Autos\201700624_Autos\obj\Debug\net6.0-windows\201700624_Autos.vbproj.GenerateResource.cache
+D:\Users\USER\Desktop\PROYECTOS PROGRA 092\201700624_TAREAP3\201700624_Autos\201700624_Autos\obj\Debug\net6.0-windows\201700624_Autos.GeneratedMSBuildEditorConfig.editorconfig
+D:\Users\USER\Desktop\PROYECTOS PROGRA 092\201700624_TAREAP3\201700624_Autos\201700624_Autos\obj\Debug\net6.0-windows\201700624_Autos.AssemblyInfoInputs.cache
+D:\Users\USER\Desktop\PROYECTOS PROGRA 092\201700624_TAREAP3\201700624_Autos\201700624_Autos\obj\Debug\net6.0-windows\201700624_Autos.AssemblyInfo.vb
+D:\Users\USER\Desktop\PROYECTOS PROGRA 092\201700624_TAREAP3\201700624_Autos\201700624_Autos\obj\Debug\net6.0-windows\201700624_Autos.vbproj.CoreCompileInputs.cache
+D:\Users\USER\Desktop\PROYECTOS PROGRA 092\201700624_TAREAP3\201700624_Autos\201700624_Autos\obj\Debug\net6.0-windows\201700624_Autos.dll
+D:\Users\USER\Desktop\PROYECTOS PROGRA 092\201700624_TAREAP3\201700624_Autos\201700624_Autos\obj\Debug\net6.0-windows\ref\201700624_Autos.dll
+D:\Users\USER\Desktop\PROYECTOS PROGRA 092\201700624_TAREAP3\201700624_Autos\201700624_Autos\obj\Debug\net6.0-windows\201700624_Autos.pdb
+D:\Users\USER\Desktop\PROYECTOS PROGRA 092\201700624_TAREAP3\201700624_Autos\201700624_Autos\obj\Debug\net6.0-windows\201700624_Autos.genruntimeconfig.cache
